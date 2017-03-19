@@ -1,0 +1,10 @@
+name: dashboard
+title:
+account: jamiewan
+server: shinyapps.io
+appId: 161565
+bundleId: 736207
+url: https://jamiewan.shinyapps.io/dashboard/
+when: 1488845755.32452
+asMultiple: FALSE
+asStatic: FALSE
