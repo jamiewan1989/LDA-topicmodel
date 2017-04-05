@@ -11,5 +11,6 @@ fluidPage(
     
   mainPanel(
     visNetworkOutput("network",height = "1000px")
-    )
+    verbatimTextOutput("shiny_return")
   )
+)
